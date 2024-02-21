@@ -1,0 +1,3 @@
+apis:
+  ? controllercondocumentazioneinswagger/src/main/java/com/controllercondocumentazioneinswagger/controllercondocumentazioneinswagger/name.json
+  : alias: "api-title"

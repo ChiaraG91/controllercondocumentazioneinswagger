@@ -10,4 +10,5 @@ public class ControllercondocumentazioneinswaggerApplication {
 		SpringApplication.run(ControllercondocumentazioneinswaggerApplication.class, args);
 	}
 
+
 }
